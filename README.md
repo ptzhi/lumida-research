@@ -1,6 +1,6 @@
 # Portfolio
 
-Repository of work samples from professional experience at Lumida, SharpeFi and from my Quantitative Finance MBA at NYU. All work samples shown use publicly available data.
+Repository of work samples from professional experience at Lumida.
 
 **Table of Contents**
 1. [Token Research](#1-token-research)
